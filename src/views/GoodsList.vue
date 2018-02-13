@@ -80,7 +80,7 @@
 		</p>
 		<div slot="btnGroup">
 			<a class="btn btn--m" href="javascript:;" @click="mdShowCart = false">继续购物</a>
-			<router-link class="btn btn--m btn--red" href="javascript:;" to="/cart">查看购物车</router-link>
+			<router-link class="btn btn--m btn--red" to="/cart">查看购物车</router-link>
 		</div>
 	</modal>
 
@@ -205,7 +205,7 @@ export default {
 		},
 
 		addCart(productId) {
-			axios.post("/goods/addCart", {
+			axios.post("/users/addCart", {
 				productId: productId
 			}).then(response => {
 				let res = response.data

@@ -13,9 +13,9 @@
 		</svg>
 		<div class="navbar">
 			<div class="navbar-left-container">
-				<a href="/">
+				<router-link to="/">
 					<img class="navbar-brand-logo" src="static/imooc.gif">
-				</a>
+				</router-link>
 			</div>
 			<div class="navbar-right-container" style="display: flex;">
 				<div class="navbar-menu-container">
@@ -24,11 +24,11 @@
 					<a href="javascript:void(0)" class="navbar-link" v-else @click="logout">退出</a>
 					<div class="navbar-cart-container">
 						<span class="navbar-cart-count" v-text="" v-if=""></span>
-						<a class="navbar-link navbar-cart-link" href="/#/cart">
+						<router-link class="navbar-link navbar-cart-link" to="/cart">		
 							<svg class="navbar-cart-logo">
 								<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-cart"></use>
 							</svg>
-						</a>
+						</router-link>
 					</div>
 				</div>
 			</div>
