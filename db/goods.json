@@ -1,0 +1,134 @@
+{ 
+    "_id" : ObjectId("5a726c27b05f3e35148e890c"), 
+    "productId" : "2018021001", 
+    "productName" : "头戴式耳机", 
+    "salePrice" : NumberInt(199), 
+    "productImage" : "3.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a726fc5d0b76100cd881ce3"), 
+    "productId" : "2018021002", 
+    "productName" : "小米6", 
+    "salePrice" : 2299.0, 
+    "productImage" : "mi6.jpg"
+}
+{ 
+    "_id" : ObjectId("5a7274e8a7a07d1a95475fae"), 
+    "productId" : "2018021003", 
+    "productName" : "小米电视4A", 
+    "salePrice" : 2099.0, 
+    "productImage" : "10.jpg"
+}
+{ 
+    "_id" : ObjectId("5a7274eea7a07d1a95475faf"), 
+    "productId" : "2018021004", 
+    "productName" : "智能插线板", 
+    "salePrice" : 59.0, 
+    "productImage" : "6.jpg"
+}
+{ 
+    "_id" : ObjectId("5a727528a7a07d1a95475fb0"), 
+    "productId" : "2018021005", 
+    "productName" : "小钢炮蓝牙音箱", 
+    "salePrice" : 129.0, 
+    "productImage" : "1.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72752ea7a07d1a95475fb1"), 
+    "productId" : "2018021006", 
+    "productName" : "智能摄像机", 
+    "salePrice" : 389.0, 
+    "productImage" : "photo.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72755ea7a07d1a95475fb2"), 
+    "productId" : "2018021007", 
+    "productName" : "自拍杆", 
+    "salePrice" : 39.0, 
+    "productImage" : "4.jpg"
+}
+{ 
+    "_id" : ObjectId("5a727588a7a07d1a95475fb3"), 
+    "productId" : "2018021008", 
+    "productName" : "蓝牙耳机", 
+    "salePrice" : 99.0, 
+    "productImage" : "11.jpg"
+}
+{ 
+    "_id" : ObjectId("5a7275d9a7a07d1a95475fb4"), 
+    "productId" : "2018021009", 
+    "productName" : "数据线", 
+    "salePrice" : 29.0, 
+    "productImage" : "15.jpg"
+}
+{ 
+    "_id" : ObjectId("5a727631a7a07d1a95475fb5"), 
+    "productId" : "2018021010", 
+    "productName" : "小米移动电源", 
+    "salePrice" : 79.0, 
+    "productImage" : "5.jpg"
+}
+{ 
+    "_id" : ObjectId("5a7276bfa7a07d1a95475fb6"), 
+    "productId" : "2018021011", 
+    "productName" : "小米AI音响", 
+    "salePrice" : 299.0, 
+    "productImage" : "8.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72770ca7a07d1a95475fb7"), 
+    "productId" : "2018021012", 
+    "productName" : "小米电饭煲", 
+    "salePrice" : 1299.0, 
+    "productImage" : "9.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72d0805988276cfd50d234"), 
+    "productId" : "2018021013", 
+    "productName" : "平衡车", 
+    "salePrice" : 1999.0, 
+    "productImage" : "2.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72d1555988276cfd50d236"), 
+    "productId" : "2018021014", 
+    "productName" : "Apple Ipad", 
+    "salePrice" : 2699.0, 
+    "productImage" : "13.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72d1585988276cfd50d237"), 
+    "productId" : "2018021015", 
+    "productName" : "《父与子》 ", 
+    "salePrice" : 25.2, 
+    "productImage" : "14.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72d1905988276cfd50d238"), 
+    "productId" : "2018021016", 
+    "productName" : "梦之蓝", 
+    "salePrice" : 2999.0, 
+    "productImage" : "12.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72d2385988276cfd50d239"), 
+    "productId" : "2018021017", 
+    "productName" : "《忘记亲一下》 ", 
+    "salePrice" : 31.1, 
+    "productImage" : "16.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72d2385988276cfd50d23a"), 
+    "productId" : "2018021018", 
+    "productName" : "《几米：恋之风景》 ", 
+    "salePrice" : 22.1, 
+    "productImage" : "17.jpg"
+}
+{ 
+    "_id" : ObjectId("5a72d2395988276cfd50d23b"), 
+    "productId" : "2018021019", 
+    "productName" : "《疾风回旋曲》 ", 
+    "salePrice" : 22.8, 
+    "productImage" : "18.jpg"
+}

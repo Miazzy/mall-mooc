@@ -1,0 +1,126 @@
+{ 
+    "_id" : ObjectId("58c41d5d3eddd93e9ab5b078"), 
+    "userId" : "00001", 
+    "userName" : "Mei", 
+    "userPwd" : "971226", 
+    "orderList" : [
+        {
+            "orderId" : "20180213203324", 
+            "orderTotal" : 87.20000000000002, 
+            "addressInfo" : {
+                "addressId" : "100005", 
+                "userName" : "MARTIN EDEN", 
+                "streetName" : "北京市海淀区西二旗", 
+                "postCode" : NumberInt(100009), 
+                "tel" : 18710987654.0, 
+                "isDefault" : true
+            }, 
+            "goodsList" : [
+                {
+                    "_id" : ObjectId("5a72d2385988276cfd50d23a"), 
+                    "productId" : "2018021018", 
+                    "productName" : "《几米：恋之风景》 ", 
+                    "salePrice" : "22.1", 
+                    "productImage" : "17.jpg", 
+                    "productNum" : "1", 
+                    "checked" : "1"
+                }, 
+                {
+                    "_id" : ObjectId("5a72d2395988276cfd50d23b"), 
+                    "productId" : "2018021019", 
+                    "productName" : "《疾风回旋曲》 ", 
+                    "salePrice" : "22.8", 
+                    "productImage" : "18.jpg", 
+                    "productNum" : "1", 
+                    "checked" : "1"
+                }, 
+                {
+                    "_id" : ObjectId("5a72d1585988276cfd50d237"), 
+                    "productId" : "2018021015", 
+                    "productName" : "《父与子》 ", 
+                    "salePrice" : "25.2", 
+                    "productImage" : "14.jpg", 
+                    "productNum" : "1", 
+                    "checked" : "1"
+                }, 
+                {
+                    "_id" : ObjectId("5a72d2385988276cfd50d239"), 
+                    "productId" : "2018021017", 
+                    "productName" : "《忘记亲一下》 ", 
+                    "salePrice" : "31.1", 
+                    "productImage" : "16.jpg", 
+                    "productNum" : "1", 
+                    "checked" : "1"
+                }
+            ], 
+            "orderStatus" : "1", 
+            "createDate" : "2018-02-13 20:33:24"
+        }
+    ], 
+    "cartList" : [
+        {
+            "_id" : ObjectId("5a72d2385988276cfd50d23a"), 
+            "productId" : "2018021018", 
+            "productName" : "《几米：恋之风景》 ", 
+            "salePrice" : "22.1", 
+            "productImage" : "17.jpg", 
+            "productNum" : "1", 
+            "checked" : "1"
+        }, 
+        {
+            "_id" : ObjectId("5a72d2395988276cfd50d23b"), 
+            "productId" : "2018021019", 
+            "productName" : "《疾风回旋曲》 ", 
+            "salePrice" : "22.8", 
+            "productImage" : "18.jpg", 
+            "productNum" : "1", 
+            "checked" : "1"
+        }, 
+        {
+            "_id" : ObjectId("5a72d1585988276cfd50d237"), 
+            "productId" : "2018021015", 
+            "productName" : "《父与子》 ", 
+            "salePrice" : "25.2", 
+            "productImage" : "14.jpg", 
+            "productNum" : "1", 
+            "checked" : "1"
+        }, 
+        {
+            "_id" : ObjectId("5a72d2385988276cfd50d239"), 
+            "productId" : "2018021017", 
+            "productName" : "《忘记亲一下》 ", 
+            "salePrice" : "31.1", 
+            "productImage" : "16.jpg", 
+            "productNum" : "1", 
+            "checked" : "1"
+        }
+    ], 
+    "addressList" : [
+        {
+            "addressId" : "100004", 
+            "userName" : "IMOOC", 
+            "streetName" : "北京市朝阳区SOHO", 
+            "postCode" : "100000", 
+            "tel" : "010555555", 
+            "isDefault" : false
+        }, 
+        {
+            "addressId" : "100005", 
+            "userName" : "MARTIN EDEN", 
+            "streetName" : "北京市海淀区西二旗", 
+            "postCode" : "100009", 
+            "tel" : "18710987654", 
+            "isDefault" : true
+        }, 
+        {
+            "_id" : ObjectId("5a731a74e9ab2d4e601fe1bc"), 
+            "addressId" : "100006", 
+            "userName" : "DuJie", 
+            "streetName" : "山西省柳林县", 
+            "postCode" : "033300", 
+            "tel" : "010655555", 
+            "isDefault" : false
+        }
+    ], 
+    "__v" : NumberInt(58)
+}

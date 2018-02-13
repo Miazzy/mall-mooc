@@ -1,0 +1,54 @@
+{ 
+    "_id" : ObjectId("5a731a74e9ab2d4e601fe1ba"), 
+    "addressId" : "100004", 
+    "userName" : "IMOOC", 
+    "streetName" : "北京市朝阳区SOHO", 
+    "postCode" : "100000", 
+    "tel" : "010555555", 
+    "isDefault" : true
+}
+{ 
+    "_id" : ObjectId("5a731a74e9ab2d4e601fe1bb"), 
+    "addressId" : "100005", 
+    "userName" : "MARTIN EDEN", 
+    "streetName" : "北京市海淀区西二旗", 
+    "postCode" : "100009", 
+    "tel" : "18710987654", 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("5a731a74e9ab2d4e601fe1bc"), 
+    "addressId" : "100006", 
+    "userName" : "DuJie", 
+    "streetName" : "山西省柳林县", 
+    "postCode" : "033300", 
+    "tel" : "010655555", 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("5a731a74e9ab2d4e601fe1bd"), 
+    "addressId" : "100007", 
+    "userName" : "Joke", 
+    "streetName" : "北京市朝阳区望京", 
+    "postCode" : "100010", 
+    "tel" : "13619898722", 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("5a731a74e9ab2d4e601fe1be"), 
+    "addressId" : "100008", 
+    "userName" : "Frank", 
+    "streetName" : "北京市海淀区中关村软件园", 
+    "postCode" : "100011", 
+    "tel" : "10125652345", 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("5a731a74e9ab2d4e601fe1bf"), 
+    "addressId" : "100009", 
+    "userName" : "JackBean", 
+    "streetName" : "北京市朝阳区朝阳公园", 
+    "postCode" : "100001", 
+    "tel" : "12345678901", 
+    "isDefault" : false
+}
